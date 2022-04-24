@@ -30,8 +30,8 @@
       ]
     },
     {
-      "name": "Silver Cube",
-      "glbFile": "/assets/silver-cube.glb",
+      "name": "Red Glass Cube",
+      "glbFile": "/assets/glass_box.glb",
       "attributes": [
         { "trait_type": "shape", "value": "cube" },
         { "trait_type": "size", "value": "small" },
