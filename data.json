@@ -20,10 +20,10 @@
   },
   "models": [
     {
-      "name": "Gold Cube",
-      "glbFile": "/assets/gold-cube.glb",
+      "name": "Lego Box",
+      "glbFile": "/assets/lego_box.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
+        { "trait_type": "shape", "value": "lego" },
         { "trait_type": "size", "value": "small" },
         { "trait_type": "color", "value": "gold" },
         { "trait_type": "material", "value": "metal" }
