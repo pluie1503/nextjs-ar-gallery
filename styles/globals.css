@@ -12,9 +12,9 @@ a {
 }
 
 * {
+  background-color: #000000;
   box-sizing: border-box;
 }
-
 
 model-viewer {
   display: block;
@@ -48,7 +48,6 @@ model-viewer::part(default-progress-mask) {
   background-repeat: no-repeat;
   background-position: center;
 }
-
 
 @keyframes wiggle {
   10%,
