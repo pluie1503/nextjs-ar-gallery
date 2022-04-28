@@ -20,43 +20,43 @@
   },
   "models": [
     {
-      "name": "Lego Box",
-      "glbFile": "/assets/lego_box.glb",
+      "name": "Metal Box 01",
+      "glbFile": "/assets/metalbox01.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "lego" },
+        { "trait_type": "type", "value": "sapphire" },
+        { "trait_type": "size", "value": "small" },
+        { "trait_type": "color", "value": "blue" },
+        { "trait_type": "material", "value": "metal" }
+      ]
+    },
+    {
+      "name": "Metal Box 02",
+      "glbFile": "/assets/metalbox02.glb",
+      "attributes": [
+        { "trait_type": "type", "value": "gold" },
         { "trait_type": "size", "value": "small" },
         { "trait_type": "color", "value": "gold" },
         { "trait_type": "material", "value": "metal" }
       ]
     },
     {
-      "name": "Red Glass Cube",
-      "glbFile": "/assets/glass_box.glb",
+      "name": "Metal Box 03",
+      "glbFile": "/assets/metalbox03.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
+        { "trait_type": "type", "value": "ruby" },
         { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "silver" },
+        { "trait_type": "color", "value": "red" },
         { "trait_type": "material", "value": "metal" }
       ]
     },
     {
-      "name": "Red Cube",
-      "glbFile": "/assets/glass_box2.glb",
+      "name": "Metal Box 04",
+      "glbFile": "/assets/metalbox04.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "red" },
-        { "trait_type": "material", "value": "plastic" }
-      ]
-    },
-    {
-      "name": "Green Cube",
-      "glbFile": "/assets/Nodebox04.glb",
-      "attributes": [
-        { "trait_type": "shape", "value": "cube" },
+        { "trait_type": "type", "value": "emerald" },
         { "trait_type": "size", "value": "small" },
         { "trait_type": "color", "value": "green" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "material", "value": "metal" }
       ]
     }
   ]
